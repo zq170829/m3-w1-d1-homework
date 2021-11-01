@@ -1,0 +1,26 @@
+{
+  "name": "m3-w1-d1-homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "server_task1.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zq170829/m3-w1-d1-homework.git"
+  },
+  "author": "Qi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zq170829/m3-w1-d1-homework/issues"
+  },
+  "homepage": "https://github.com/zq170829/m3-w1-d1-homework#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "test"
+  ]
+}
